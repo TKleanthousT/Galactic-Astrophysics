@@ -1,0 +1,9 @@
+Filter,File,lambda_eff_Angstrom,lambda_eff_micron,unit_detected,format_detected
+U_MaizApellaniz,U_MaizApellaniz.dat,3572.720973033654,0.3572720973033654,Å,idx|λ|S (>=3 cols)
+B_MaizApellaniz,B_MaizApellaniz.dat,4345.237339989694,0.43452373399896943,Å,idx|λ|S (>=3 cols)
+V_MaizApellaniz,V_MaizApellaniz.dat,5457.264026728562,0.5457264026728562,Å,idx|λ|S (>=3 cols)
+R_JohnsonCousins,R_JohnsonCousins.dat,6418.338289786217,0.6418338289786216,Å,idx|λ|S (>=3 cols)
+I_JohnsonCousins,I_JohnsonCousins.dat,7853.892916412931,0.7853892916412931,Å,idx|λ|S (>=3 cols)
+J_2mass,J_2mass.dat,12322.292634704,1.2322292634704,Å,idx|λ|S (>=3 cols)
+H_2mass,H_2mass.dat,16420.04124736585,1.642004124736585,Å,idx|λ|S (>=3 cols)
+K_2mass,K_2mass.dat,21566.876702625927,2.156687670262593,Å,idx|λ|S (>=3 cols)

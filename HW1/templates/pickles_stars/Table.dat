@@ -1,0 +1,82 @@
+# template      type class temp[K]  M_U[AB] M_B[AB] M_V[AB] U-B[AB] B-V[AB]
+  pickles_uk_1   O5    V  39810.70
+  pickles_uk_2   O9    V  35481.40
+  pickles_uk_3   B0    V  28183.80
+  pickles_uk_4   B1    V  22387.20
+  pickles_uk_5   B3    V  19054.60
+  pickles_uk_6   B6    V  14125.40
+  pickles_uk_7   B8    V  11749.00
+  pickles_uk_9   A0    V   9549.93
+ pickles_uk_10   A2    V   8912.51
+ pickles_uk_11   A3    V   8790.23
+ pickles_uk_12   A5    V   8491.80
+ pickles_uk_14   F0    V   7211.08
+ pickles_uk_15   F2    V   6776.42
+ pickles_uk_16   F5    V   6531.31
+ pickles_uk_20   F8    V   6039.48
+ pickles_uk_23   G0    V   5807.64
+ pickles_uk_26   G2    V   5636.38
+ pickles_uk_27   G5    V   5584.70
+ pickles_uk_30   G8    V   5333.35
+ pickles_uk_31   K0    V   5188.00
+ pickles_uk_33   K2    V   4886.52
+ pickles_uk_36   K5    V   4187.94
+ pickles_uk_37   K7    V   3999.45
+ pickles_uk_38   M0    V   3801.89
+ pickles_uk_40   M2    V   3548.13
+ pickles_uk_43   M4    V   3111.72
+ pickles_uk_44   M5    V   2951.21
+ pickles_uk_46   B2   IV  19952.60
+ pickles_uk_47   B6   IV  12589.30
+ pickles_uk_48   A0   IV   9727.47
+ pickles_uk_49   A7   IV   7943.28
+ pickles_uk_50   F0   IV   7030.72
+ pickles_uk_51   F5   IV   6561.45
+ pickles_uk_52   F8   IV   6151.77
+ pickles_uk_53   G0   IV   5929.25
+ pickles_uk_54   G2   IV   5688.53
+ pickles_uk_55   G5   IV   5597.57
+ pickles_uk_56   G8   IV   5308.84
+ pickles_uk_57   K0   IV   5011.87
+ pickles_uk_58   K1   IV   4786.30
+ pickles_uk_59   K3   IV   4570.88
+ pickles_uk_60   O8  III  31622.80
+ pickles_uk_61   B2  III  19952.60
+ pickles_uk_63   B5  III  14791.10
+ pickles_uk_64   B9  III  11091.80
+ pickles_uk_65   A0  III   9571.94
+ pickles_uk_67   A5  III   8452.79
+ pickles_uk_69   F0  III   7585.78
+ pickles_uk_71   F5  III   6531.31
+ pickles_uk_72   G0  III   5610.48
+ pickles_uk_73   G5  III   5164.16
+ pickles_uk_76   G8  III   5011.87
+ pickles_uk_78   K0  III   4852.89
+ pickles_uk_87   K3  III   4365.16
+ pickles_uk_93   K5  III   4008.67
+ pickles_uk_95   M0  III   3819.44
+pickles_uk_100   M5  III   3419.79
+pickles_uk_105   M9  III   2500.35
+pickles_uk_106   B2   II  15995.60
+pickles_uk_107   B5   II  12589.30
+pickles_uk_108   F0   II   7943.28
+pickles_uk_109   F2   II   7328.25
+pickles_uk_110   G5   II   5248.07
+pickles_uk_111   K1   II   5011.87
+pickles_uk_112   K2   II   4255.98
+pickles_uk_113   M3   II   3411.93
+pickles_uk_114   B0    I  26001.60
+pickles_uk_117   B5    I  13396.80
+pickles_uk_118   B8    I  11194.40
+pickles_uk_119   A0    I   9727.47
+pickles_uk_121   F0    I   7691.30
+pickles_uk_122   F5    I   6637.43
+pickles_uk_123   F8    I   6095.37
+pickles_uk_124   G0    I   5508.08
+pickles_uk_126   G5    I   5046.61
+pickles_uk_127   G8    I   4591.98
+pickles_uk_128   K2    I   4255.98
+pickles_uk_130   K4    I   3990.25
+pickles_uk_131   M2    I   3451.44
+           wd1  DA0    D  50400.00
+           wd2  DA6    D   8400.00
